@@ -1,0 +1,30 @@
+div{
+	width: 100px;
+	height: 100px;
+	background:#4A88F4;
+	color:#fff;
+	font-size: 30px;
+	position: center;
+	margin:10px;
+}
+.cajita_master{
+	width: 400px;
+	height: 120px;
+	background: green;
+	position: relative;
+}
+.first{
+	position: absolute;
+	top: -8px;
+	bottom: 20px;
+	right: 0;
+	left: 120px;
+}
+.second{
+	position: absolute;
+	background: #f00000;
+	top: 10px;
+	bottom: 20px;
+	right: 30px;
+	left: 250px;
+}
